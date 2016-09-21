@@ -1,0 +1,15 @@
+Orange (medium),b,67
+Bread slice,b,80
+Peanut butter,b,175
+Jelly,b,155 
+Potato,b,400 
+Turkey,b,90
+Cheese Slice,b,90 
+Grilled Cheese,r,Bread slice,Bread slice,Cheese Slice,Cheese Slice
+Patty Melt,r,Turkey,Grilled Cheese,Bread slice,Bread slice,Cheese Slice,Cheese Slice,Grilled Cheese
+Apple,b,90
+Orange,b,100
+Fruit Cup,r,Apple,Orange
+Fruit Salad,r,Peanut butter,Fruit Cup,r,Apple,Orange,Fruit Cup,r,Apple,Orange 
+Fries,r,Potato
+Lunch,r,Apple,Grilled Cheese 
